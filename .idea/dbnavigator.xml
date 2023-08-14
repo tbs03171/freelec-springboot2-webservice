@@ -51,6 +51,7 @@ CREATE TABLE SPRING_SESSION_ATTRIBUTES (
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="66732a43-bdc7-4b61-a940-06cdbe104f42" dataset="freelec_springboot2_webservice.test" active-filter-id="" />
+    <filter-actions connection-id="66732a43-bdc7-4b61-a940-06cdbe104f42" dataset="freelec_springboot2_webservice.SPRING_SESSION" active-filter-id="" />
     <filter-actions connection-id="66732a43-bdc7-4b61-a940-06cdbe104f42" dataset="freelec_springboot2_webservice.user" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
